@@ -1,0 +1,8 @@
+yarn init
+
+yarn add webpack
+yarn add webpack-cli
+
+add the config in webpack.config.js
+
+yarn run build

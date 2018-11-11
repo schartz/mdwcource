@@ -1,0 +1,17 @@
+{
+  "name": "WebpackIntro",
+  "version": "0.1",
+  "description": "Introduction to Webpack",
+  "main": "index.js",
+  "author": "Team MDW",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "./node_modules/.bin/webpack -p"
+  },
+  "dependencies": {
+    "moment": "^2.22.2",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
